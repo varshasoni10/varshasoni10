@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>FarmChainX – a role-based agriculture supply chain platform using Spring Boot, JWT & React.<br><br>👯 I’m looking to collaborate on  <br>Backend development projects, REST APIs, Spring Boot, and full-stack web applications.<br><br>🤝 I’m looking for help with  <br>System design, scalable backend architecture, and production-level Spring Security.<br><br>🌱 I’m currently learning  <br>Advanced Spring Boot, JWT Security, React integration, and cloud deployment basics.<br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, JWT Authentication, Role-Based Access Control, and React basics.<br><br>⚡ Fun fact  <br>I enjoy turning complex backend logic into clean, secure APIs 🚀<br>
+ I’m looking to collaborate on  <br>Backend development projects, REST APIs, Spring Boot, and full-stack web applications.<br><br>🤝 I’m looking for help with  <br>System design, scalable backend architecture, and production-level Spring Security.<br><br>🌱 I’m currently learning  <br>Advanced Spring Boot, JWT Security, React integration, and cloud deployment basics.<br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, JWT Authentication, Role-Based Access Control, and React basics.<br><br>⚡ Fun fact  <br>I enjoy turning complex backend logic into clean, secure APIs 🚀<br>
 
 
 ## 🌐 Socials:
